@@ -1,4 +1,4 @@
-// Neste algoritmo, o usuario ira fornecer seu peso e sua altura; o sistema ira calcular seu IMC e retornar em qual faixa o usuario se encontra
+// Neste algoritmo, o usuario ira informar seu peso e sua altura; o sistema ira calcular seu IMC e retornar em qual faixa o usuario se encontra
 
 Algoritmo "IMCcomposto"
 Var
