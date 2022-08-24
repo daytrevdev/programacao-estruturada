@@ -1,3 +1,5 @@
+// Neste algoritmo, o sistema ira classificar o aproveitamento dos alunos conforme seu range de nota alcancado na escola
+
 Algoritmo "aproveitamento"
 
 Var

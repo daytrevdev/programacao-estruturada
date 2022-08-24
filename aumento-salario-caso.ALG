@@ -1,3 +1,5 @@
+// Neste algoritmo, o sistema ira receber nome, salario e numero de dependentes de cada funcionario e, com estas informacoes, retornar qual sera o novo salario
+
 Algoritmo "dependentesfuncionarios"
 
 Var

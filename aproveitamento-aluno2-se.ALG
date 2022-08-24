@@ -1,3 +1,5 @@
+// Neste algoritmo, o usuario ira incluir um numero X de alunos, fornecendo a nota de cada um; o sistema ira comparar estas notas e mostrar qual o melhor aluno e, consequentemente, qual a melhor nota
+
 Algoritmo "aproveitamentoAluno"
 Var
    tot, cont: inteiro
@@ -5,7 +7,7 @@ Var
    aluno, melhorAluno: caractere
 Inicio
       Escreval("------------------------")
-      Escreval(" ESCOLA SANTA PACIÊNCIA ")
+      Escreval(" ESCOLA SANTA PACIENCIA ")
       Escreval("------------------------")
       Escreva("Numero de alunos na turma:")
       Leia(tot)

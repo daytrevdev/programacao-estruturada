@@ -1,3 +1,5 @@
+// Neste algoritmo, o usuario entrara com seu peso e sua altura; o sistema calculara seu IMC e indicara se esta ou nao em uma faixa saudavel
+
 Algoritmo "IMCsimples"
 Var
    M, A, IMC: Real
