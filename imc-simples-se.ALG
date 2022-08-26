@@ -1,6 +1,8 @@
-// Neste algoritmo, o usuario entrara com seu peso e sua altura; o sistema calculara seu IMC e indicara se esta ou nao em uma faixa saudavel
-
 Algoritmo "IMCsimples"
+//
+// Estrutura Condicional Se Entao
+// Neste algoritmo, o usuario informa seu peso e sua altura; o sistema calcula seu IMC e indica se esta ou nao em uma faixa saudavel
+
 Var
    M, A, IMC: Real
 Inicio

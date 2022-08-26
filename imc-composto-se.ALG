@@ -1,6 +1,8 @@
-// Neste algoritmo, o usuario ira fornecer seu peso e sua altura; o sistema ira calcular seu IMC e retornar em qual faixa o usuario se encontra
-
 Algoritmo "IMCcomposto"
+//
+// Estrutura Condicional Se Entao
+// Neste algoritmo, o usuario informa seu peso e sua altura; o sistema calcula seu IMC e retorna em qual faixa o usuario se encontra
+
 Var
    M, A, IMC: Real
 Inicio

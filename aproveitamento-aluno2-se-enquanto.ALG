@@ -1,6 +1,8 @@
+Algoritmo "aproveitamentoAluno"
+//
+// Estrutura Condicional Se Entao e de Repeticao Enquanto Faca
 // Neste algoritmo, o usuario ira incluir um numero X de alunos, fornecendo a nota de cada um; o sistema ira comparar estas notas e mostrar qual o melhor aluno e, consequentemente, qual a melhor nota
 
-Algoritmo "aproveitamentoAluno"
 Var
    tot, cont: inteiro
    nota, melhorNota: real

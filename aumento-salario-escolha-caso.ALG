@@ -1,6 +1,7 @@
+Algoritmo "dependentesFuncionarios"
+//
+// Estrutura Condicional Escolha Caso
 // Neste algoritmo, o sistema ira receber nome, salario e numero de dependentes de cada funcionario e, com estas informacoes, retornar qual sera o novo salario
-
-Algoritmo "dependentesfuncionarios"
 
 Var
    Nome: caractere
@@ -8,13 +9,13 @@ Var
    Dep: inteiro
 Inicio
    Escreval("---------------------------------")
-   Escreval("      NÚMERO DE DEPENDENTES      ")
+   Escreval("      NUMERO DE DEPENDENTES      ")
    Escreval("---------------------------------")
    Escreva("Qual o nome do funcionário: ")
    Leia(Nome)
-   Escreva("Qual o salario do funcionário: R$")
+   Escreva("Qual o salario do funcionario: R$")
    Leia(Sal)
-   Escreva("Quantos dependentes tem o funcionário: ")
+   Escreva("Quantos dependentes tem o funcionario: ")
    Leia(Dep)
    Escolha Dep
    Caso 0

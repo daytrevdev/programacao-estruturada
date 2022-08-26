@@ -1,8 +1,11 @@
+Algoritmo "contageminteligente"
+//
+// Estrutura Condicional Se Entao e de Repeticao Enquanto Faca
 // Neste algoritmo, o usuario ira fornecer um numero inicial e outro final, que serao os insumos para o sistema realizar uma contagem, seja esta progressiva ou regressiva
 
-Algoritmo "contageminteligente"
 Var
    I, F, cont: inteiro
+   
 Inicio
    Escreval("CONTAGEM INTELIGENTE")
    Escreval("-----------------------")
