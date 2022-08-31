@@ -9,7 +9,7 @@ Var
 Inicio
    N1 <- 0
    N2 <- 1
-     Escreva(N1, N2)
+      Escreva(N1, N2)
    Para cont := 3 ate 15 faca
       N3 <- N1 + N2
       Escreva(N3)
