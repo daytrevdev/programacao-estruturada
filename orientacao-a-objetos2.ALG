@@ -49,7 +49,11 @@ Repita
                Escreval(clientes[i].nome, " foi encontrado")
                Escreval("----------------------------")
                Escreval("")
-            Interrompa
+            Senao
+               Escreval("----------------------------")
+               Escreval("Cliente nao encontrado")
+               Escreval("----------------------------")
+               Interrompa
             FimSe
          FimPara
    FimSe
